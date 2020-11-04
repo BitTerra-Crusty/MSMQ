@@ -1,0 +1,15 @@
+C:\Source\repos\Receive Messages\Receive Messages\bin\Debug\netcoreapp3.1\Receive Messages.exe
+C:\Source\repos\Receive Messages\Receive Messages\obj\Debug\netcoreapp3.1\Receive Messages.AssemblyInfoInputs.cache
+C:\Source\repos\Receive Messages\Receive Messages\obj\Debug\netcoreapp3.1\Receive Messages.AssemblyInfo.cs
+C:\Source\repos\Receive Messages\Receive Messages\bin\Debug\netcoreapp3.1\Receive Messages.deps.json
+C:\Source\repos\Receive Messages\Receive Messages\bin\Debug\netcoreapp3.1\Receive Messages.runtimeconfig.json
+C:\Source\repos\Receive Messages\Receive Messages\bin\Debug\netcoreapp3.1\Receive Messages.runtimeconfig.dev.json
+C:\Source\repos\Receive Messages\Receive Messages\bin\Debug\netcoreapp3.1\Receive Messages.dll
+C:\Source\repos\Receive Messages\Receive Messages\bin\Debug\netcoreapp3.1\Receive Messages.pdb
+C:\Source\repos\Receive Messages\Receive Messages\bin\Debug\netcoreapp3.1\Experimental.System.Messaging.dll
+C:\Source\repos\Receive Messages\Receive Messages\obj\Debug\netcoreapp3.1\Receive Messages.csprojAssemblyReference.cache
+C:\Source\repos\Receive Messages\Receive Messages\obj\Debug\netcoreapp3.1\Receive Messages.csproj.CoreCompileInputs.cache
+C:\Source\repos\Receive Messages\Receive Messages\obj\Debug\netcoreapp3.1\Receive Messages.csproj.CopyComplete
+C:\Source\repos\Receive Messages\Receive Messages\obj\Debug\netcoreapp3.1\Receive Messages.dll
+C:\Source\repos\Receive Messages\Receive Messages\obj\Debug\netcoreapp3.1\Receive Messages.pdb
+C:\Source\repos\Receive Messages\Receive Messages\obj\Debug\netcoreapp3.1\Receive Messages.genruntimeconfig.cache

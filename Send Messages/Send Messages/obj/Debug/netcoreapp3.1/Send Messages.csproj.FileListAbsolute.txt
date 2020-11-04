@@ -1,0 +1,15 @@
+C:\Source\repos\Send Messages\Send Messages\bin\Debug\netcoreapp3.1\Send Messages.exe
+C:\Source\repos\Send Messages\Send Messages\obj\Debug\netcoreapp3.1\Send Messages.csprojAssemblyReference.cache
+C:\Source\repos\Send Messages\Send Messages\obj\Debug\netcoreapp3.1\Send Messages.AssemblyInfoInputs.cache
+C:\Source\repos\Send Messages\Send Messages\obj\Debug\netcoreapp3.1\Send Messages.AssemblyInfo.cs
+C:\Source\repos\Send Messages\Send Messages\bin\Debug\netcoreapp3.1\Send Messages.deps.json
+C:\Source\repos\Send Messages\Send Messages\bin\Debug\netcoreapp3.1\Send Messages.runtimeconfig.json
+C:\Source\repos\Send Messages\Send Messages\bin\Debug\netcoreapp3.1\Send Messages.runtimeconfig.dev.json
+C:\Source\repos\Send Messages\Send Messages\bin\Debug\netcoreapp3.1\Send Messages.dll
+C:\Source\repos\Send Messages\Send Messages\bin\Debug\netcoreapp3.1\Send Messages.pdb
+C:\Source\repos\Send Messages\Send Messages\bin\Debug\netcoreapp3.1\Experimental.System.Messaging.dll
+C:\Source\repos\Send Messages\Send Messages\obj\Debug\netcoreapp3.1\Send Messages.csproj.CoreCompileInputs.cache
+C:\Source\repos\Send Messages\Send Messages\obj\Debug\netcoreapp3.1\Send Messages.csproj.CopyComplete
+C:\Source\repos\Send Messages\Send Messages\obj\Debug\netcoreapp3.1\Send Messages.dll
+C:\Source\repos\Send Messages\Send Messages\obj\Debug\netcoreapp3.1\Send Messages.pdb
+C:\Source\repos\Send Messages\Send Messages\obj\Debug\netcoreapp3.1\Send Messages.genruntimeconfig.cache
